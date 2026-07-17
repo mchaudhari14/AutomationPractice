@@ -1,2 +1,0 @@
-# AutomationPractice
-AutomationPractice
