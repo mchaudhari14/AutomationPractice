@@ -1,0 +1,2 @@
+We are learning java script and adding file 3 for practice.
+We are again updating practicing git commit and push, hence updating description. 
